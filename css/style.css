@@ -1,0 +1,24 @@
+body {
+    font-family: "Permanent Marker", sans-serif;
+}
+
+h1,h2,h3{
+    font-family: "Architects Daughter", cursive;
+}
+
+header h2{
+    color: tomato;
+}
+
+
+.jumbotron {
+    margin: 0;
+    padding: 30px;
+    background-image: linear-gradient(to right,bisque,Moccasin,DarkSalmon,Brown);
+    border-radius: 0.3rem;
+}
+
+.navbar{
+    padding: 0.5rem 0.5rem;
+    background-image: linear-gradient(to right,lightgoldenrodyellow,NavajoWhite,Moccasin);
+}
