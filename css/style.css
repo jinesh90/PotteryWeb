@@ -1,5 +1,8 @@
 body {
     font-family: "Permanent Marker", sans-serif;
+    #background-image: linear-gradient(to right,white,whitesmoke,ghostwhite);
+    background-image: url("../images/background.png");
+
 }
 
 h1,h2,h3{
@@ -21,4 +24,31 @@ header h2{
 .navbar{
     padding: 0.5rem 0.5rem;
     background-image: linear-gradient(to right,lightgoldenrodyellow,NavajoWhite,Moccasin);
+}
+
+.carousel-caption {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.carousel {
+    border: solid DarkSalmon;
+}
+
+#historyCard{
+    margin: 30px;
+    background-image: url("../images/background.png");
+}
+#minPottery{
+    margin: 30px;
+    background-image: url("../images/background.png");
+}
+
+.potterImage{
+    margin-left: 250px;
+    margin-bottom: 25px;
+}
+#homeCarousel{
+    margin-top: 25px;
+    margin-left: 33px;
+    margin-right: 33px;
 }
