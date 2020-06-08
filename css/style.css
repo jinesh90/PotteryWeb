@@ -24,23 +24,29 @@ header h2{
 .navbar{
     padding: 0.5rem 0.5rem;
     background-image: linear-gradient(to right,lightgoldenrodyellow,NavajoWhite,Moccasin);
+    margin-bottom: 25px;
 }
 
 .carousel-caption {
     background-color: rgba(0, 0, 0, 0.5);
+    margin-right: 10px;
 }
 
 .carousel {
     border: solid DarkSalmon;
+    margin-bottom: 25px;
+    margin-top: 25px;
 }
 
 #historyCard{
     margin: 30px;
     background-image: url("../images/background.png");
+    border: solid DarkSalmon;
 }
 #minPottery{
     margin: 30px;
     background-image: url("../images/background.png");
+    border: solid DarkSalmon;
 }
 
 .potterImage{
