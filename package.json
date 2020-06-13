@@ -1,0 +1,25 @@
+{
+  "name": "potteryweb",
+  "version": "1.0.0",
+  "description": "This is pottery site",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jinesh90/PotteryWeb.git"
+  },
+  "author": "jinesh patel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jinesh90/PotteryWeb/issues"
+  },
+  "homepage": "https://github.com/jinesh90/PotteryWeb#readme",
+  "dependencies": {
+    "bootstrap": "^4.5.0",
+    "bootstrap-social": "^5.1.1",
+    "jquery": "^3.5.1",
+    "popper": "^1.0.1"
+  }
+}
